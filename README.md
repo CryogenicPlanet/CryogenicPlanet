@@ -1,8 +1,6 @@
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
 # Rahul Tarak @CryogenicPlanet
 
-###https://cryogenicplanet.tech/
+### https://cryogenicplanet.tech/
 
 [<img src="/images/laptop.svg" width="36px"/>](https://cryogenicplanet.tech) [<img src="/images/linkedin.svg" width="36px"/>](https://www.linkedin.com/in/rahul-tarak/) [<img src="/images/twitter.svg" width="36px"/>](https://twitter.com/CryogenicPlanet) [<img src="/images/medium.svg" color="#1890ff" width="36px"/>](https://medium.com/@rahultarak) [<img src="/images/mail.svg" width="36px"/>](mailto:cryogenicplanet@gmail.com)
 
