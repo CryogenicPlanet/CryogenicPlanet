@@ -2,7 +2,7 @@
 
 ### https://cryogenicplanet.tech/
 
-[<img src="/images/laptop.svg" width="36px"/>](https://cryogenicplanet.tech) [<img src="/images/linkedin.svg" width="36px"/>](https://www.linkedin.com/in/rahul-tarak/) [<img src="/images/twitter.svg" width="36px"/>](https://twitter.com/CryogenicPlanet) [<img src="/images/medium.svg" color="#1890ff" width="36px"/>](https://medium.com/@rahultarak) [<img src="/images/mail.svg" width="36px"/>](mailto:cryogenicplanet@gmail.com)
+[<img src="https://github.com/CryogenicPlanet/CryogenicPlanet/blob/master/images/laptop.svg" width="36px"/>](https://cryogenicplanet.tech) [<img src="https://github.com/CryogenicPlanet/CryogenicPlanet/blob/master/images/linkedin.svg" width="36px"/>](https://www.linkedin.com/in/rahul-tarak/) [<img src="https://github.com/CryogenicPlanet/CryogenicPlanet/blob/master/images/twitter.svg" width="36px"/>](https://twitter.com/CryogenicPlanet) [<img src="https://github.com/CryogenicPlanet/CryogenicPlanet/blob/master/images/medium.svg" color="#1890ff" width="36px"/>](https://medium.com/@rahultarak) [<img src="https://github.com/CryogenicPlanet/CryogenicPlanet/blob/master/images/mail.svg" width="36px"/>](mailto:cryogenicplanet@gmail.com)
 
 👋 Hi I am a Software Engineer and Film Maker, studying at the University of Toronto.
 
