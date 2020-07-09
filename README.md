@@ -26,4 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - Twitter : https://twitter.com/CryogenicPlanet
   - Email : cryogenicplanet@gmail.com
+  - Medium : https://medium.com/@rahultarak
   - Website : https://cryogenicplanet.tech/
+
+![Currently Using](https://wakatime.com/share/@d7e92697-136f-4ee8-a98b-d90c5867ef4f/194d0946-1c7e-4180-ab44-3d2f52b1d9e3.svg)
