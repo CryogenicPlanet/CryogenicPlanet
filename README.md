@@ -10,7 +10,7 @@ I love building things, exploring new technologies and telling stories.
 
 Currently working as the Lead Backend Engineer [@TheVarsity](https://github.com/TheVarsity), a student run newspaper.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cryogenicplanet)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cryogenicplanet&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CryogenicPlanet/CryogenicPlanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
