@@ -14,5 +14,6 @@ I am also currently building [:video_camera: Modfy: A Web Assembly Based Video T
 
 Bangalore, India  Toronto, Canada
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cryogenicplanet&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+| Stats        | Wakatime           |
+| ------------- |:-------------:|
+| [![Cryogenicplanet's github stats](https://github-readme-stats.vercel.app/api?username=cryogenicplanet&show_icons=true&theme=radical&count_private=true)]() | [![Cryogenic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cryogenicplanet&theme=radical)]() |
