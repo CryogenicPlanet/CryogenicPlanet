@@ -17,14 +17,13 @@ echo '{
   "plugins": ["react", "@typescript-eslint", "react-hooks", "prettier"],
   "rules": {
     "no-use-before-define": "off",
-    "prettier/prettier": [
-      "error",
-      {
-        "endOfLine": "auto"
-      }
-    ]
+    "prettier/prettier": ["error", {
+    "endOfLine":"auto",
+    "semi" : true
+  }]
   }
-}' > .eslintrc
+}
+' > .eslintrc
 echo '"prettier-config-standard"' > .prettierrc
 
 yarn add -D @typescript-eslint/eslint-plugin @typescript-eslint/parser babel-eslint eslint eslint-config-prettier eslint-config-prettier-standard eslint-config-react-app eslint-config-standard
